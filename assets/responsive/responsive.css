@@ -1,0 +1,29 @@
+/*PC*/
+@media(min-width:1440px){
+
+}
+/*Mobile*/
+@media(max-width:375px){
+    .block{
+        width: 90%;
+        height: auto;
+        padding-bottom: 20px;
+    }
+    #img-img{
+        width: 100%;
+        height: auto;
+    }
+    .order .order-heading {
+        margin: 18px;
+        font-size: 24px;
+    }
+    .order .order-content {
+        margin: 0 42px;
+    }
+    .price{
+        margin: 20px;
+    }
+    .pay{
+        margin: 20px;
+    }
+}
